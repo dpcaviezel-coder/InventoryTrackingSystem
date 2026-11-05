@@ -1,0 +1,14 @@
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\bin\Debug\net8.0\InventoryTrackingSystem.exe
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\bin\Debug\net8.0\InventoryTrackingSystem.deps.json
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\bin\Debug\net8.0\InventoryTrackingSystem.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\bin\Debug\net8.0\InventoryTrackingSystem.dll
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\bin\Debug\net8.0\InventoryTrackingSystem.pdb
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\InventoryTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\InventoryTrackingSystem.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\InventoryTrackingSystem.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\InventoryTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\InventoryTrackingSystem.dll
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\refint\InventoryTrackingSystem.dll
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\InventoryTrackingSystem.pdb
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\InventoryTrackingSystem.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\InventoryTrackingSystem\InventoryTrackingSystem\obj\Debug\net8.0\ref\InventoryTrackingSystem.dll
